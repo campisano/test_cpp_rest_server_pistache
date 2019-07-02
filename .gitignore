@@ -1,0 +1,7 @@
+/build
+
+/external/pistache/*
+!/external/pistache/CMakeLists.txt
+
+/.cquery
+/.cquery_cached_index
